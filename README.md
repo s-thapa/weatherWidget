@@ -6,4 +6,5 @@ cd weatherWidget
 npm install
 gulp clean
 gulp
+Open any browser with http://localhost:3000 
 ```
